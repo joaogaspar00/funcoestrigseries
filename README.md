@@ -5,4 +5,5 @@
 # 📍 Fórmulas aplicadas
 
 <img src="https://render.githubusercontent.com/render/math?math=\displaystyle\cos x = \sum_{n=0}^{+\infty}\frac{(-1)^n}{(2n)!}x^{2n}">
+<img src="https://render.githubusercontent.com/render/math?math=\displaystyle\sin x = \sum_{n=0}^{+\infty}\frac{(-1)^n}{(2n+1)!}x^{2n+1}">
 
