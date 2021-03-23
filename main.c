@@ -8,7 +8,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#include <math.h> /* Biblioteca com funções matemátcas - no presente caso utiliza-se para estudar resultados da função seno */
+#include <math.h> /* Biblioteca com funções matemátcas - no presente caso utiliza-se para estudar resultados da função seno, cosseno e tangente */
 
 /***** Protótipos de funções *****/
 
