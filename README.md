@@ -4,5 +4,5 @@
 
 # 📍 Fórmulas aplicadas
 
-<img src="https://render.githubusercontent.com/render/math?math=\cos x = \sum_{n=0}^{+\infty}\frac{x^n}{n!}">
+<img src="https://render.githubusercontent.com/render/math?math=\displaystyle\cos x = \sum_{n=0}^{+\infty}\frac{x^n}{n!}">
 
