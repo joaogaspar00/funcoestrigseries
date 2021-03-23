@@ -3,7 +3,5 @@
   2. Saber quantos termos da série são necessários para obter uma aproximação desejada
 
 # 📍 Fórmulas aplicadas
-
-<img src="https://render.githubusercontent.com/render/math?math=\displaystyle\cos x = \sum_{n=0}^{+\infty}\frac{(-1)^n}{(2n)!}x^{2n}">
-<img src="https://render.githubusercontent.com/render/math?math=\displaystyle\sin x = 1 - \frac{x^2}{2!} + \frac{x^4}{4!} - \frac{x^6}{6!} + \dots">
+A fórmulas aplicadas são desenvolvimentos em série de Taylor e podem ser consultadas, por exemplo em: https://pt.wikipedia.org/wiki/S%C3%A9rie_de_Taylor
 
